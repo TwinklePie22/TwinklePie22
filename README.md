@@ -1,6 +1,9 @@
 <h2 align="left">👋Hi, I'm Sahil Bhasin</h2>
 
 ###
+---
+[![](https://visitcount.itsvg.in/api?id=TwinklePie22&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 ## 💫 About Me:
 👋 Hello, I'm Sahil Bhasin, a Full Stack Developer 💻<br><br>I'm a passionate and experienced Full Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive on crafting web applications that not only look great but also deliver exceptional user experiences. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.<br><br>- 📚 I'm currently learning DevOps and UI UX<br>- ⚡ In my free time I like to read some non-friction books<br>- 📫 How to reach me sbhasin12@gmail.com
@@ -86,8 +89,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TwinklePie22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=TwinklePie22&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
