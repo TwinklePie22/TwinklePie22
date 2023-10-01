@@ -1,12 +1,16 @@
-<h2 align="left">👋Hi, I'm Sahil Bhasin</h2>
+![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+<h1 align="left">👋Hi, I'm Sahil Bhasin</h1>
 
 ###
----
+
 [![](https://visitcount.itsvg.in/api?id=TwinklePie22&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
 ## 💫 About Me:
-👋 Hello, I'm Sahil Bhasin, a Full Stack Developer 💻<br><br>I'm a passionate and experienced Full Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive on crafting web applications that not only look great but also deliver exceptional user experiences. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.<br><br>- 📚 I'm currently learning DevOps and UI UX<br>- ⚡ In my free time I like to read some non-friction books<br>- 📫 How to reach me sbhasin12@gmail.com
+👋 Hello, I'm Sahil Bhasin, a Full Stack Developer 💻<br><br>I'm a passionate and experienced Full Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive on crafting web applications that not only look great but also deliver exceptional user experiences. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.<br><br>
+- 📚 I'm currently learning DevOps and UI UX<br>
+- ⚡ In my free time I like to read some non-friction books<br>
+- 📫 How to reach me sbhasin1122@gmail.com<br><br><br>
 
 ## 💻 Tech Stack:
 ###
@@ -55,13 +59,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
+</div><br><br>
 
-## 🌐 Socials:
+## 🌐 Reach Me:
 ###
 
-<img align="right" height="165" src="https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1939&q=80"  />
-
+<img align="right" height="155" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="380" height="290" />
 
 ###
 
@@ -76,16 +79,19 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sahil-bhasin22/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
 </div>
+<br><br><br><br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TwinklePie22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TwinklePie22&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TwinklePie22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TwinklePie22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="175" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=TwinklePie22&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TwinklePie22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="175" alt="languages graph"  />
+</div><br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TwinklePie22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
