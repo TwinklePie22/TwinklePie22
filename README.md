@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="left">👋Hi, I'm Sahil Bhasin</h1>
 
-[![](https://visitcount.itsvg.in/api?id=TwinklePie22&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TwinklePie22&icon=1&color=0)]
 
 ## 💫 About Me:
 👋 Hello, I'm Sahil Bhasin, a Full Stack Developer 💻<br><br>I'm a passionate and experienced Full Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive on crafting web applications that not only look great but also deliver exceptional user experiences. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.<br><br>
