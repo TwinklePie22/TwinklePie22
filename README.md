@@ -4,8 +4,8 @@
 ![](https://visitcount.itsvg.in/api?id=TwinklePie22&icon=1&color=0)
 
 ## 💫 About Me:
-👋 Hello, I'm Sahil Bhasin, User Interface Designer and a Full Stack Developer 💻<br><br>I'm a passionate and experienced Full Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive on crafting web applications that not only look great but also deliver exceptional user experiences. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.<br><br>
-- 📚 I'm currently learning DevOps and UI UX<br>
+👋 Hello, I'm Sahil Bhasin, a Full Stack Developer 💻<br><br>I'm a passionate and experienced Full Stack Developer with a strong foundation in front-end and back-end technologies. I thrive on crafting web applications that look great and deliver exceptional user experiences. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.<br><br>
+- 📚 I'm interested in learning about DevOps and Cloud Computiing<br>
 - ⚡ In my free time I like to read some non-friction books<br>
 - 📫 How to reach me sbhasin1122@gmail.com<br><br><br>
 
@@ -43,11 +43,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -92,6 +92,3 @@
   <img src="https://streak-stats.demolab.com?user=TwinklePie22&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="175" alt="streak graph"  /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TwinklePie22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="175" alt="languages graph"  />
 </div><br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TwinklePie22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
