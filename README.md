@@ -6,7 +6,7 @@
 ## 💫 About Me:
 👋 Hello, I'm Sahil Bhasin, a Full Stack Developer 💻<br><br>I'm a passionate and experienced Full Stack Developer with a strong foundation in front-end and back-end technologies. I thrive on crafting web applications that look great and deliver exceptional user experiences. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.<br><br>
 - 📚 I'm interested in learning about DevOps and Cloud Computiing<br>
-- ⚡ In my free time I like to read some non-friction books<br>
+- ⚡ In my free time I like to read some non-fiction books<br>
 - 📫 How to reach me sbhasin1122@gmail.com<br><br><br>
 
 ## 💻 Tech Stack:
